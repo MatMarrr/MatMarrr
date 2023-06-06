@@ -3,7 +3,7 @@
 <p align="center">
   📫 How to reach me: <a href="mailto:mateuszrmarek@gmail.com">mateuszrmarek@gmail.com</a>
   <br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mateusz-marek-679606236/">Mój profil LinkedIn</a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mateusz-marek-679606236/">My LinkedIn Profile</a>
 </p>
 
 <p align="center">
