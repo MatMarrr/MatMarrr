@@ -123,6 +123,13 @@
         <br /><strong>Express.js</strong>
     </td>
     <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js">
+        <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
         width="48"
         height="48"
