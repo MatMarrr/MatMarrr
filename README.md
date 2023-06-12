@@ -9,7 +9,9 @@
 <p align="center">
     On an exciting journey through the realm of Full Stack Development.
     <br> 
-    Currently studying Software Engineering in Warsaw.
+    Currently, I am in my third year of studying Software Engineering in Warsaw.
+    <br> 
+    In my free time, I engage in programming projects and also enjoy some gym workouts.
 </p>
 
 # Technologies:
