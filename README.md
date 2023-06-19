@@ -4,6 +4,8 @@
   📫 How to reach me: <a href="mailto:mateuszrmarek@gmail.com">mateuszrmarek@gmail.com</a>
   <br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/mateusz-marek-679606236/">My LinkedIn Profile</a>
+  <br>
+  🌐 Portfolio: <a href="https://mateuszmarek.netlify.app/">My Web Development Portfolio</a>
 </p>
 
 <p align="center">
