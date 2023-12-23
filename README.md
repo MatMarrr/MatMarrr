@@ -73,6 +73,40 @@
       <br /><strong>CSS</strong>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" height="108" width="108">
+      <strong style='font-size: 20px'>I have some knowledge</strong>
+    </td>
+     <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="48"
+        height="48"
+        alt="C++">
+        <br /><strong>C++</strong>
+      </td> 
+    <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#">
+        <br /><strong>C#</strong>
+      </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+      width="48"
+      height="48"
+      alt="Unity">
+      <br /><strong>Unity</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      width="48"
+      height="48"
+      alt="Python">
+      <br /><strong>Python</strong>
+    </td>
+  </tr>
   
   <tr>
     <td align="center" height="108" width="108">
@@ -156,37 +190,4 @@
     </td>
   </tr>
   
-  <tr>
-    <td align="center" height="108" width="108">
-      <strong style='font-size: 20px'>I know a little</strong>
-    </td>
-     <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        width="48"
-        height="48"
-        alt="C++">
-        <br /><strong>C++</strong>
-      </td> 
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-        width="48"
-        height="48"
-        alt="C#">
-        <br /><strong>C#</strong>
-      </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
-      width="48"
-      height="48"
-      alt="Unity">
-      <br /><strong>Unity</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      width="48"
-      height="48"
-      alt="Python">
-      <br /><strong>Python</strong>
-    </td>
-  </tr>
 </table>
