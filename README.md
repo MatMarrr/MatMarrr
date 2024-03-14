@@ -127,7 +127,7 @@
         <br /><strong>TypeScript</strong>
       </td>
     <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"
         width="48"
         height="48"
         alt="Laravel">
