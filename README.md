@@ -76,6 +76,33 @@
 
   <tr>
     <td align="center" height="108" width="108">
+      <strong style='font-size: 20px'>I am learning</strong>
+    </td>
+     <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React.js">
+        <br /><strong>React.js</strong>
+      </td> 
+    <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="TypeScript">
+        <br /><strong>TypeScript</strong>
+      </td>
+    <td align="center" height="108" width="108">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"
+        width="48"
+        height="48"
+        alt="Laravel">
+        <br /><strong>Laravel</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" height="108" width="108">
       <strong style='font-size: 20px'>I have some knowledge</strong>
     </td>
      <td align="center" height="108" width="108">
@@ -105,33 +132,6 @@
       height="48"
       alt="Python">
       <br /><strong>Python</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" height="108" width="108">
-      <strong style='font-size: 20px'>I am learning</strong>
-    </td>
-     <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React.js">
-        <br /><strong>React.js</strong>
-      </td> 
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-        width="48"
-        height="48"
-        alt="TypeScript">
-        <br /><strong>TypeScript</strong>
-      </td>
-    <td align="center" height="108" width="108">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg"
-        width="48"
-        height="48"
-        alt="Laravel">
-        <br /><strong>Laravel</strong>
     </td>
   </tr>
 
